@@ -1,0 +1,20 @@
+order number: 2002
+id                  Dishes                                  Price               Count               Total               
+Total price is£º2
+Today's take-out order interest till now is 0
+------------------------------------------------
+order number: 1013
+id                  Dishes                                  Price               Count               Total               
+4         braised-common-carp                     19                  1                   19                  
+15        Wonton&noodles                          9                   3                   27                  
+Total price is£º48
+Today's eat-in order interest till now is 28
+------------------------------------------------
+order number: 1014
+id                  Dishes                                  Price               Count               Total               
+2         Mapo-toufu                              15                  1                   15                  
+4         braised-common-carp                     19                  2                   38                  
+Total price is£º55
+Today's eat-in order interest till now is 38
+------------------------------------------------
+
